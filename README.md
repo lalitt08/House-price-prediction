@@ -24,7 +24,7 @@ python app.py
 ## Preview
 <br>
 <br>
-<img src='https://github.com/JafirDon/House-price-prediction-using-flask/blob/main/static/images/prediction.png'></img>
+<img src='https://github.com/lalitt08/House-price-prediction/blob/main/static/images/prediction.jpg'></img>
 <br>
 <br>
 <br>
